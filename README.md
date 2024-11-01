@@ -35,9 +35,9 @@ This project is a mobile application developed in Flutter, aimed at accurately t
 - **Animations**: Various animations were included to add interactive and dynamic movement to UI components, ensuring a modern app experience.
 
 ## Considerations
-- **Fonts**: Chose fonts from Google Fonts that closely resemble the original design's typography.
-- **Assets**: Logos, avatars, and icons were selected or cropped from the source to maintain design integrity while respecting aspect ratios.
-- **Testing**: The app was tested on different devices to ensure it adapts well to varying screen sizes and resolutions.
+- **Fonts**: Selected fonts from Google Fonts that closely resemble the original design's typography to maintain visual consistency.
+- **Assets**: Chose icons from **`iconsax_flutter`** to closely match the design specifications. Avatars and media images for apartment listings were populated using fake/mock data for demonstration purposes while adhering to the overall design aesthetic.
+- **Testing**: The app was thoroughly tested across various devices to ensure responsiveness and compatibility with different screen sizes and resolutions.
 
 ## Challenges & Learnings
 - **Animation Precision**: Ensuring that animations matched the source material required fine-tuning curves and durations.
