@@ -4,7 +4,7 @@
 This project is a mobile application developed in Flutter, aimed at accurately translating a design from Dribbble into a working app. The goal was to mimic the UI and user interactions as closely as possible to the original design.
 
 ## Screenshots
-<img src="https://github.com/habeex/Github-Users-Repo/assets/22020160/14741ed7-5373-429c-aa27-e0b5bc005fa9" width="150"/> <img src="https://github.com/habeex/Github-Users-Repo/assets/22020160/27035e79-2e44-468b-9370-01f0c8a42b65](https://dribbble.com/shots/23780608-Real-Estate-App" width="150"/> <img src="https://github.com/user-attachments/assets/49aedd85-a7f9-42bb-ae32-153105b10093" width="150"/> 
+<img src="https://dribbble.com/shots/23780608-Real-Estate-App" width="150"/> <img src="[https://github.com/habeex/Github-Users-Repo/assets/22020160/27035e79-2e44-468b-9370-01f0c8a42b65](https://dribbble.com/shots/23780608-Real-Estate-App](https://dribbble.com/shots/23780608-Real-Estate-App)" width="150"/> <img src="https://github.com/user-attachments/assets/49aedd85-a7f9-42bb-ae32-153105b10093" width="150"/> 
 
 
 ### Task Description
