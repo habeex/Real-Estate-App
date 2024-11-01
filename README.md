@@ -4,7 +4,7 @@
 This project is a mobile application developed in Flutter, aimed at accurately translating a design from Dribbble into a working app. The goal was to mimic the UI and user interactions as closely as possible to the original design.
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/be14511f-5f41-42c4-b33a-4251cc3069f5" width="150"/> <img src="https://github.com/user-attachments/assets/be14511f-5f41-42c4-b33a-4251cc3069f5" width="150"/> <img src="https://github.com/user-attachments/assets/49aedd85-a7f9-42bb-ae32-153105b10093" width="150"/> 
+<img src="https://github.com/habeex/Real-Estate-App/blob/main/assets/screens.gif" width="150"/> <img src="https://github.com/user-attachments/assets/be14511f-5f41-42c4-b33a-4251cc3069f5" width="150"/> <img src="https://github.com/user-attachments/assets/49aedd85-a7f9-42bb-ae32-153105b10093" width="150"/> 
 
 ### Task Description
 - **Design Source**: [Real Estate App on Dribbble](https://dribbble.com/shots/23780608-Real-Estate-App)
@@ -47,7 +47,4 @@ This project is a mobile application developed in Flutter, aimed at accurately t
 The project showcases my ability to translate detailed designs into functional mobile applications. By replicating the UI and UX from the Dribbble source, I aimed to create an app that is visually appealing and interactive.
 
 ## APK Download
-The compiled APK is available for download 
-
-## Contact
-For any questions or feedback, please reach out at your.email@example.com.
+The compiled APK is available for [download](https://github.com/habeex/Real-Estate-App/blob/main/apk/app-release.apk)
