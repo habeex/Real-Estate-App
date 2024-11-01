@@ -82,12 +82,12 @@ class _NavigationState extends State<Navigation> {
       List.generate(_navigation.length, (index) {
         final navBar = _navigation[index].navBar;
         final icon = _navigation[index].icon;
-        return CircleAvatar(
-          radius: _selectedNavBar == index ? 28 : 20,
-          backgroundColor:
-              _selectedNavBar == index ? Colors.orange : Colors.black,
-          child: InkWell(
-            key: Key('key_${navBar.name}'),
+        return GestureDetector(
+          onTap: () => onTap(index),
+          child: CircleAvatar(
+            radius: _selectedNavBar == index ? 28 : 20,
+            backgroundColor:
+                _selectedNavBar == index ? Colors.orange : Colors.black,
             child: AnimatedSwitcher(
               duration: const Duration(microseconds: 300),
               transitionBuilder: (child, animation) {
@@ -102,7 +102,6 @@ class _NavigationState extends State<Navigation> {
                 color: Colors.white,
               ),
             ),
-            onTap: () => onTap(index),
           ),
         );
       });
